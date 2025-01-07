@@ -20,5 +20,5 @@ We believe that password management should be effortless and secure. PassVault i
 - **Free to Use**: PassVault is available for free, with no hidden costs.
 
 ## App Structure
-
+![Photo](app_structure.png)
 
