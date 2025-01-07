@@ -1,8 +1,24 @@
-# React + Vite
+# PassVault - Your Own Password Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In today's digital world, remembering and managing multiple passwords can be a daunting task. That's where PassVault comes in.
 
-Currently, two official plugins are available:
+## Our Mission
+We believe that password management should be effortless and secure. PassVault is designed to simplify your digital life by:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Securely store all your passwords in one convenient location.
+- Quickly and easily retrieve any password with a single click.
+- Generate strong, unique passwords for each of your accounts.
+- Employ robust encryption to protect your sensitive information.
+- Store your data securely on your device, giving you complete control.
+
+## Why Choose PassVault?
+
+- **Simplicity**: Our user-friendly interface makes password management a breeze.
+- **Security**: Your data is protected with the latest encryption technologies.
+- **Privacy**: We respect your privacy and do not store any of your data on our servers.
+- **Convenience**: Access your passwords anytime, anywhere, from any device.
+- **Free to Use**: PassVault is available for free, with no hidden costs.
+
+## App Structure
+
+
