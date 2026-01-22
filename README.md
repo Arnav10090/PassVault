@@ -4,15 +4,12 @@
 
 ### *Your Trusted Digital Security Partner*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18+-blue.svg)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-6+-green.svg)](https://www.mongodb.com/)
 [![Vite](https://img.shields.io/badge/Vite-5+-purple.svg)](https://vitejs.dev/)
 
 *Secure • Simple • Powerful*
-
-[🚀 Live Demo](https://passvault-demo.com) • [📖 Documentation](https://docs.passvault.com) • [🐛 Report Bug](https://github.com/Arnav10090/PassVault/issues) • [💡 Request Feature](https://github.com/Arnav10090/PassVault/issues)
 
 </div>
 
@@ -21,8 +18,6 @@
 ## 🌟 Overview
 
 In today's digital landscape, managing multiple passwords securely is more critical than ever. **PassVault** is a cutting-edge password manager that combines military-grade encryption with an intuitive user experience, giving you complete control over your digital security.
-
-<div align="center">
 
 ### 🎯 **Why PassVault?**
 
@@ -34,25 +29,6 @@ In today's digital landscape, managing multiple passwords securely is more criti
 | 🔒 **Military-Grade Encryption** | AES-256 encryption keeps your data secure |
 | 🌐 **Cross-Platform** | Works seamlessly across all devices |
 | 💰 **100% Free** | No hidden costs, no premium tiers |
-
-</div>
-
----
-
-## 📸 Screenshots
-
-<div align="center">
-
-### 🏠 **Home Page**
-![Home Page](https://via.placeholder.com/800x400/1e293b/ffffff?text=PassVault+Home)
-
-### 🔐 **Password Manager**
-![Password Manager](https://via.placeholder.com/800x400/1e293b/ffffff?text=Password+Manager)
-
-### 📱 **Mobile Responsive**
-![Mobile View](https://via.placeholder.com/400x600/1e293b/ffffff?text=Mobile+View)
-
-</div>
 
 ---
 
@@ -124,29 +100,7 @@ Your backend will be running at `http://localhost:5000` 🚀
 
 ---
 
-## 🏗️ Architecture
-
-<div align="center">
-
-```mermaid
-graph TB
-    A[React Frontend] --> B[Express.js API]
-    B --> C[MongoDB Database]
-    B --> D[JWT Authentication]
-    B --> E[AES-256 Encryption]
-    
-    style A fill:#61dafb
-    style B fill:#68d391
-    style C fill:#4ade80
-    style D fill:#fbbf24
-    style E fill:#f87171
-```
-
-</div>
-
 ### 🛠️ Tech Stack
-
-<div align="center">
 
 | Frontend | Backend | Database | Security |
 |----------|---------|----------|----------|
@@ -154,13 +108,9 @@ graph TB
 | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white) | ![Bcrypt](https://img.shields.io/badge/Bcrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white) |
 | ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | ![Helmet](https://img.shields.io/badge/Helmet-000000?style=for-the-badge&logo=helmet&logoColor=white) | | ![CORS](https://img.shields.io/badge/CORS-FF6B6B?style=for-the-badge&logo=cors&logoColor=white) |
 
-</div>
-
 ---
 
 ## ✨ Features
-
-<div align="center">
 
 ### 🔐 **Security First**
 - **AES-256 Encryption** - Military-grade security
@@ -186,105 +136,14 @@ graph TB
 - **TypeScript Support** - Type-safe development
 - **Modern Tooling** - ESLint, Prettier, and more
 
-</div>
-
----
-
-## 📚 API Documentation
-
-<details>
-<summary><b>🔗 Authentication Endpoints</b></summary>
-
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| `POST` | `/api/auth/register` | Register new user |
-| `POST` | `/api/auth/login` | User login |
-| `POST` | `/api/auth/logout` | User logout |
-| `GET` | `/api/auth/me` | Get current user |
-
-</details>
-
-<details>
-<summary><b>🔐 Password Endpoints</b></summary>
-
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| `GET` | `/api/passwords` | Get all passwords |
-| `POST` | `/api/passwords` | Create new password |
-| `PUT` | `/api/passwords/:id` | Update password |
-| `DELETE` | `/api/passwords/:id` | Delete password |
-| `GET` | `/api/passwords/generate` | Generate secure password |
-
-</details>
-
----
-
-## 🤝 Contributing
-
-We love contributions! Here's how you can help make PassVault even better:
-
-<div align="center">
-
-### 🌟 **Ways to Contribute**
-
-| Type | Description |
-|------|-------------|
-| 🐛 **Bug Reports** | Found a bug? Let us know! |
-| 💡 **Feature Requests** | Have an idea? We'd love to hear it! |
-| 📝 **Documentation** | Help improve our docs |
-| 🔧 **Code** | Submit a pull request |
-
-</div>
-
-<details>
-<summary><b>📋 Contribution Guidelines</b></summary>
-
-1. **Fork the repository**
-2. **Create a feature branch**: `git checkout -b feature/amazing-feature`
-3. **Commit your changes**: `git commit -m 'Add amazing feature'`
-4. **Push to the branch**: `git push origin feature/amazing-feature`
-5. **Open a Pull Request**
-
-</details>
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-<div align="center">
-
-### 💝 **Special Thanks**
-
-- **React Team** - For the amazing framework
-- **MongoDB** - For the powerful database
-- **Tailwind CSS** - For the beautiful styling
-- **Lucide Icons** - For the gorgeous icons
-- **All Contributors** - For making this project better
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 **Star History**
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Arnav10090/PassVault&type=Date)](https://star-history.com/#Arnav10090/PassVault&Date)
-
 ---
 
 ### 📞 **Get in Touch**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arnav10090)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/passvault)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCP58uS7v_Iedv9LTu0R74iQ)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@passvault.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-tiwari-063278253/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Arnav_IIITN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavt292@gmail.com)
 
 ---
 
