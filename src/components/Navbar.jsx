@@ -83,18 +83,9 @@ const Navbar = () => {
                                     </Link>
                                     <Link
                                         to="/login"
-                                        className={`transition-all px-4 py-2 rounded-lg text-sm font-medium ${isActive('/login')
-                                            ? 'bg-gradient-to-r from-blue-500 to-cyan-500 text-white shadow-lg shadow-blue-500/50'
-                                            : 'text-gray-300 hover:text-white hover:bg-white/10'
-                                            }`}
-                                    >
-                                        Login
-                                    </Link>
-                                    <Link
-                                        to="/signup"
                                         className="bg-gradient-to-r from-blue-500 to-cyan-500 hover:from-blue-600 hover:to-cyan-600 text-white px-4 py-2 rounded-lg text-sm font-medium transition-all shadow-lg hover:shadow-blue-500/50"
                                     >
-                                        Sign Up
+                                        Get Started
                                     </Link>
                                 </>
                             )}
@@ -202,20 +193,10 @@ const Navbar = () => {
                                 </Link>
                                 <Link
                                     to="/login"
-                                    className={`block px-3 py-2 rounded-md text-base font-medium transition-all ${isActive('/login')
-                                        ? 'bg-gradient-to-r from-blue-500 to-cyan-500 text-white'
-                                        : 'text-gray-300 hover:text-white hover:bg-gray-700'
-                                        }`}
-                                    onClick={() => setMobileMenuOpen(false)}
-                                >
-                                    Login
-                                </Link>
-                                <Link
-                                    to="/signup"
                                     className="block px-3 py-2 rounded-md text-base font-medium bg-gradient-to-r from-blue-500 to-cyan-500 text-white hover:from-blue-600 hover:to-cyan-600 transition-all"
                                     onClick={() => setMobileMenuOpen(false)}
                                 >
-                                    Sign Up
+                                    Get Started
                                 </Link>
                             </>
                         )}

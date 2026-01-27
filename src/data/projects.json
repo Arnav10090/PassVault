@@ -1,0 +1,21 @@
+[
+    {
+        "id": "passvault",
+        "title": "PassVault",
+        "description": "A secure, military-grade password manager with zero-knowledge architecture.",
+        "problem": "Managing multiple passwords securely across different platforms is complex and risky.",
+        "solution": "Developed a robust password manager using MERN stack with AES-256 encryption and zero-knowledge architecture to ensure data privacy.",
+        "outcome": "Provided a secure, user-friendly platform for managing passwords with real-time sync and military-grade encryption.",
+        "techStack": [
+            "React",
+            "Node.js",
+            "MongoDB",
+            "Express",
+            "Vite",
+            "Tailwind CSS",
+            "Framer Motion",
+            "JWT"
+        ],
+        "featured": true
+    }
+]
