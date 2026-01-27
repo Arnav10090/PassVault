@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔐 [PassVault](https://drive.google.com/drive/folders/1q4Ku0e4T5S_vgDZxgKne6n0veLylWoyL?usp=sharing)
+# 🔐 <a href="https://drive.google.com/drive/folders/1q4Ku0e4T5S_vgDZxgKne6n0veLylWoyL?usp=sharing" target="_blank">PassVault</a>
 
 ### *Your Trusted Digital Security Partner*
 
